@@ -1,0 +1,16 @@
+2020-11-12 02:38:52,830 INFO I am able to do all things 92 logging_info conftest.py
+2020-11-12 02:43:20,423 INFO I am able to do all things 92 logging_info conftest.py
+2020-11-12 02:58:59,096 INFO I am able to do all things 92 logging_info conftest.py
+2020-11-12 03:02:41,276 INFO I am able to do all things 96 logging_info conftest.py
+2020-11-12 03:04:36,267 INFO I am able to do all things 96 logging_info conftest.py
+2020-11-12 03:05:03,421 INFO I am able to do all things 96 logging_info conftest.py
+2020-11-12 03:08:41,224 INFO I am able to do all things 95 logging_info conftest.py
+2020-11-12 03:10:18,215 INFO I am able to do all things 95 logging_info conftest.py
+2020-11-12 13:20:43,349 INFO I am able to do all things 96 logging_info conftest.py
+2020-11-12 13:22:31,032 INFO I am able to do all things 96 logging_info conftest.py
+2020-11-12 13:59:12,980 INFO Emeka is not working but making a mistake 97 logging_info conftest.py
+2020-11-12 13:59:13,118 INFO Emeka is not working but making a mistake 97 logging_info conftest.py
+2020-11-12 14:07:40,154 INFO Emeka is not working but making a mistake 97 logging_info conftest.py
+2020-11-12 14:08:44,294 INFO Emeka is not working but making a mistake 97 logging_info conftest.py
+2020-11-12 14:11:20,362 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023163DD6580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b639a9ae6cebf2d7ef1481a2cc2b91a6/window 751 urlopen connectionpool.py
+2020-11-29 00:50:33,458 INFO Emeka is not working but making a mistake 97 logging_info conftest.py

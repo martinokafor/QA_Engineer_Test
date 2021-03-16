@@ -1,0 +1,10 @@
+About
+Getting Started
+Python
+search
+Go
+Community
+Python Logo
+Jobs
+//header/div[1]/nav[1]/ul[1]/li[1]/a[1]
+Getting Started

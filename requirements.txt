@@ -1,9 +1,16 @@
-behave-webdriver
-behave
-martin
-Catherine Okafor
-Emeka Okafor
-Obiajulu Okafor Mercy
-supplymaster
-okafor
-Ifunanya
+pytest
+nose
+helium
+selenium
+pytest-html
+requests
+schedule
+pytest-repeat
+pytest-logger
+
+#pip freeze
+#pytest==4.0.1
+#selenium==3.6.0
+#pycodestyle==2.5.0
+#pytest-html
+#requests==2.21.0
