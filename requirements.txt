@@ -7,6 +7,7 @@ requests
 schedule
 pytest-repeat
 pytest-logger
+pyyaml
 
 #pip freeze
 #pytest==4.0.1
