@@ -2,7 +2,7 @@ import os
 import yaml
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-base_env =os.environ.get("NOSE_EN", "sample1.yaml")
+base_env =os.environ.get("NOSE_EN", "sample.yaml")
 
 print(base_env)
 
